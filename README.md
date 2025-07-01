@@ -8,7 +8,7 @@
 <p> 🌟 Focusing on open-source contribution, **C++** and **DSA** <br> <br>
 💡 Learning **Docker**, **Supabase**, and **AWS**  <br><br>
 💬 I talk about **AI**, **ML**, **Python**, and **React**  <br><br>
-🚀 Projects: Impact and Urgency Forecasting, Blood Bank Management System, Movie Database  <br><br>
+🚀 Projects: IntelHub-Threat Intelligent Collaborative Coding Platform, AcompanyAI, MortuaryDB, Mind Metrics <br><br>
 
 📚 Interests: Tech, reading, anime</p>
 </div>
